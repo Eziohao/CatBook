@@ -1,6 +1,5 @@
 # CatBook
 CatBook is an app which can use to track cats and their hobbies
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
